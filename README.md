@@ -17,7 +17,7 @@ Well-adjusted Stable Diffusion parameters (section 5). While the default paramet
 
 📌 Number of pages : 104
 
-🔥 stable diffusion prompts - full guide : Download
+🔥 stable diffusion prompts - full guide : [Download](http://dlgram.com/4qtf1f)
 
 --------------------------------------------------------------
 
